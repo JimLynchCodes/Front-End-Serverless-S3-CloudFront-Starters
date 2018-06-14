@@ -17,4 +17,4 @@ aws s3 cp ./dist s3://BUCKETNAME --recursive --acl public-read
 
 ## Thanks
 
-Thanks to Abvraham Szilagyi for writing this [post](https://medium.com/codefactory/angular2-s3-love-deploy-to-cloud-in-6-steps-3f312647a659) whichi inspired the deploy scripts in this project. Thanks!
+Thanks to Abvraham Szilagyi for writing this [post](https://medium.com/codefactory/angular2-s3-love-deploy-to-cloud-in-6-steps-3f312647a659) whichi inspired the deploy scripts in this project (also it's a great guuide for setting things up in the AWS S3 console). Thanks!
